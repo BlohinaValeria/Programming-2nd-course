@@ -9,13 +9,13 @@
 :small_orange_diamond: Сложностей не было, так как на паре была подробно разобрана данная задача. 
 
 ## Результат программы:
-![LAB3_1](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB2_screen1.png)
+![LAB3_1](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB3_screen1.1.png))
 
 ## Комментарий к тестам программы:
 :small_orange_diamond: Выдает ошибку и невозможно провести тесты
 
 ## Результат тестов программы:
-![LAB3_1.1test](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB2_screen2test.png)
+![LAB3_1.1test](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB3_screen1.1test.png)
 
 ## 1.2
  Модернизируйте калькулятор из задачи 1.1. Добавьте переменное количество неименоманных аргументов (операндов, ∗args) после параметра action и перед keyword параметром tolerance. К списку поддерживаемых действий добавьте вычисление таких величин как среднее значение (medium), дисперсия (variance), стандартное отклонение (std_deviation), медиана (median, q2, второй квартиль) и межквартильный размах (q3 - q1, разница третьего и первого квартилей).Покройте новые реализованные функции и функцию calculate дополнительными юнит-тестами.
@@ -24,12 +24,12 @@
 :small_orange_diamond: Был вопрос в расчете каждого дополнительного действия,такого как среднее значение, в отдельной функции или через if,elif
 
 ## Результат основной программы:
-![LAB3_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB2_screen2.png)
+![LAB3_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB3_screen1.2.png)
 
 ## Комментарий к тестам программы:
 :small_orange_diamond: Аналогично с первым задание тесты выдают FAILD
 
 ## Результат тестов программы:
-![LAB3_1.2test](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB2_screen2test.png)
+![LAB3_1.2test](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB3_screen1.2test.png)
 
 
