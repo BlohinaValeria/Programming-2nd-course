@@ -5,7 +5,6 @@ from typing import List, Union
 def calculate(action: str, *args: Union[int, float], tolerance: float = 1e-6) -> Union[int, float]:
     """
     Calculates the result of the calculator based on the provided action and arguments.
-
     Args:
         action (str): The operation to be performed. Supported actions:
             - 'add': Addition
@@ -22,8 +21,6 @@ def calculate(action: str, *args: Union[int, float], tolerance: float = 1e-6) ->
             - 'interquartile_range': Interquartile range (q3 - q1)
         *args (Union[int, float]): Variable number of operands.
         tolerance (float, optional): Tolerance for floating-point calculations. Defaults to 1e-6.
-
-
     """
     if action == 'add':
         return sum(args)
@@ -55,21 +52,22 @@ def calculate(action: str, *args: Union[int, float], tolerance: float = 1e-6) ->
             mean = sum(sorted_args) / n
             variance = sum((arg - mean) ** 2 for arg in sorted_args) / n
             if action == 'variance':
-                return variance #вычисление дисперсии(среднее арифметическое квадратов их отклонений от среднего арифметического этого ряда)
+                return variance  # вычисление дисперсии(среднее арифметическое квадратов их отклонений от среднего арифметического этого ряда)
             else:
-                return math.sqrt(variance)#вычисление std_deviation - стандартное отклонение— квадратный корень из дисперсии этого ряда.
-            if action in ('median', 'q2'):
-                return sorted_args[n // 2] if n % 2 else (sorted_args[n // 2 - 1] + sorted_args[n // 2]) / 2
+                return math.sqrt(
+                    variance)  # вычисление std_deviation - стандартное отклонение— квадратный корень из дисперсии этого ряда.
+        elif action in ('median', 'q2'):
+            return sorted_args[n // 2] if n % 2 else (sorted_args[n // 2 - 1] + sorted_args[n // 2]) / 2
         elif action == 'q1':
             return sorted_args[n // 4] if n % 4 == 0 else (sorted_args[n // 4 - 1] + sorted_args[n // 4]) / 2
-    elif action == 'q3':
-        return sorted_args[3 * n // 4] if n % 4 == 0 else (sorted_args[3 * n // 4 - 1] + sorted_args[
-            3 * n // 4]) / 2
-    elif action == 'interquartile_range':
-        return sorted_args[3 * n // 4] - sorted_args[n // 4]
-
+        elif action == 'q3':
+            return sorted_args[3 * n // 4] if n % 4 == 0 else (sorted_args[3 * n // 4 - 1] + sorted_args[
+                3 * n // 4]) / 2
+        elif action == 'interquartile_range':
+            return sorted_args[3 * n // 4] - sorted_args[n // 4]
     else:
         raise ValueError(f"Unsupported action: {action}")
+
 
 if __name__ == "__main__":
     while True:
