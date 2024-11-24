@@ -63,6 +63,6 @@
 :small_orange_diamond: Была проблема с подключением библиотеки. Но ее удалось разрешить
 
 ## Результат основной программы:
-![LAB3_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB3_screen1.2.png)
+![LAB3_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB4_screen2.3.jpg)
 
 
