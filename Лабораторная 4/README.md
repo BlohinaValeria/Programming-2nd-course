@@ -65,5 +65,4 @@
 ## Результат основной программы:
 ![LAB3_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB3_screen1.2.png)
 
-##Дополнительное задание
 
