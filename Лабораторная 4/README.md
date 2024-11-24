@@ -8,7 +8,7 @@
 :small_orange_diamond: Сложностей не было, так как на паре была подробно разобрана данная задача. 
 
 ## Результат программы:
-![LAB3_1](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB3_screen1.1.png)
+![LAB4_1](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB4_screen1.1.png)
 
 ## 1.2
 Усовершенствуйте предыдущую задачу, добавив функцию two_sum_hashed(lst, target) так, чтобы сложность алгоритма была ниже: O(n) или O(n · log(n)).
@@ -17,7 +17,7 @@
 :small_orange_diamond: В программе была использована сложность O(n)
 
 ## Результат основной программы:
-![LAB3_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB3_screen1.2.png)
+![LAB4_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB4_screen1.2.png)
 
 ## 1.3
 Усовершенствуйте предыдущую задачу 1.2, добавив функцию , которая возвращает все наборы индексов, удовлетворяющих условию суммы target
@@ -26,7 +26,7 @@
 :small_orange_diamond: Сложностей в реализации программы не возникло
 
 ## Результат основной программы:
-![LAB3_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB3_screen1.2.png)
+![LAB4_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB4_screen1.3.png)
 
 ## 1.4
 Повторите или изучите понятие мемоизации в Python. Реализуйте с помощью мемоизации и рекурсии вычисление чисел Фибоначчи сначала рукаки с помощью вручную добавленого к рекурсивной функции словаря с ранее вычисленными числами Фибоначчи, а затем с помощью декоратора @cache из стандартного модуля Python functools
@@ -35,7 +35,7 @@
 :small_orange_diamond: Данная задача была подробно рассмотрена на паре. Также оставила в коде некоторые комментарии с пар
 
 ## Результат основной программы:
-![LAB3_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB3_screen1.2.png)
+![LAB4_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB4_screen1.4.png)
 
 # Комплект 2
 ## 2.1
@@ -45,7 +45,7 @@
 :small_orange_diamond: Проблема с сервисом mail.ru. 
 
 ## Результат основной программы:
-![LAB3_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB3_screen1.2.png)
+![LAB4_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB4_screen2.1.png)
 
 ## 2.2
 Парсинг сайта погоды (wheather HTML parsing) на google.com и/или на простом сайте wttrin с помощью BeautifulSoup (v4).
@@ -54,7 +54,7 @@
 :small_orange_diamond: Изначально была проблема с сайтом wttr.in. Он не отображался и было показаноБ что он заблокирован на территории РФ. Затем была трудность в выборе сайта погодыБ в котором погода на каждый день упакована в один блок, а не каждый элемент отдельно. Также локально без дополнительного файла html интерпритатор не показывал результат. Поэтому был добавлен файл.
 
 ## Результат основной программы:
-![LAB3_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB3_screen1.2.png)
+![LAB4_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB4_screen2.2.png)
 
 ## 2.3
 С помощью бибилиотеки matplotlib вывести два окна с графиками функций по личному выбору. В одном окне два графика двух разных функций. В другом окне - один график ещё одной функции
@@ -64,3 +64,6 @@
 
 ## Результат основной программы:
 ![LAB3_2](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB3_screen1.2.png)
+
+##Дополнительное задание
+
