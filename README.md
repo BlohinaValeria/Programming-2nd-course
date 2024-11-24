@@ -11,3 +11,6 @@
 
 ## :white_check_mark: Лабораторная работа 3
 [Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%203)
+
+## :white_check_mark: Лабораторная работа 4
+[Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%204)
