@@ -4,7 +4,7 @@
 
 
 ## :white_check_mark: Лабораторная работа 1
-### _Ключевые слова: калькулятор / введение / перебор чисел / установка Python_
+### <ins> Ключевые слова: калькулятор / введение / перебор чисел / установка Python </ins>
 [Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%201)
 
 ## :white_check_mark: Лабораторная работа 2
