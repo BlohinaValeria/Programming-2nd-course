@@ -4,21 +4,21 @@
 
 
 ## :white_check_mark: Лабораторная работа 1
-__Ключевые слова: калькулятор / введение / перебор чисел / установка Python
+_Ключевые слова: калькулятор / введение / перебор чисел / установка Python_
 [Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%201)
 
 ## :white_check_mark: Лабораторная работа 2
-__Ключевые слова: Closures / Decorators / Logging / Unittests / Pytest
+_Ключевые слова: Closures / Decorators / Logging / Unittests / Pytest_
 [Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%202)
 
 ## :white_check_mark: Лабораторная работа 3
-* *Ключевые слова: точность вычислений / Unittests / Pytest
+_Ключевые слова: точность вычислений / Unittests / Pytest_
 [Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%203)
 
 ## :white_check_mark: Лабораторная работа 4
-* *Ключевые слова: кортеж / сложность алгоритма / парсинг сайта / библиотеки smtplib, matplotlib
+_Ключевые слова: кортеж / сложность алгоритма / парсинг сайта / библиотеки smtplib, matplotlib_
 [Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%204)
 
 ## :white_check_mark: Лабораторная работа 5
-* *Ключевые слова: итераторы / генераторы / Docker / mongo / менеджеры контекста
+_Ключевые слова: итераторы / генераторы / Docker / mongo / менеджеры контекста_
 [Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%205)
