@@ -4,11 +4,11 @@
 
 
 ## :white_check_mark: Лабораторная работа 1
-* *Ключевые слова: калькулятор / введение / перебор чисел / установка Python
+__Ключевые слова: калькулятор / введение / перебор чисел / установка Python
 [Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%201)
 
 ## :white_check_mark: Лабораторная работа 2
-* *Ключевые слова: Closures / Decorators / Logging / Unittests / Pytest
+__Ключевые слова: Closures / Decorators / Logging / Unittests / Pytest
 [Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%202)
 
 ## :white_check_mark: Лабораторная работа 3
