@@ -40,19 +40,18 @@
 Тесты должны быть реализованы в отдельном файле (например, test_solution. py).
 
 ## Комментарий к основной программе:
-:small_orange_diamond: В программе также создаются файлы при неввозможности записи в один передается в другой или идет запись в журнал ошибок
+:small_orange_diamond: Программа должна провести тест по каждому случаю.
 
 ## Результат основной программы:
-![LAB6](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB6_screen2unittest.png)
+![LAB7](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB7_screen2.png)
 
 ## Задача 3
-естирование с помощью pytest. Можно вместо образца борда по ссылке в начале задания покрыть тестами функционал вашего калькулятора из предыдущих лабораторных работ.
-По аналогии с предыдущим пунктом 2.
-
+Автоматическая генерация входных данных с Hypothesis:
+![LAB7](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB7_screen33.png)
 ## Комментарий к основной программе:
-:small_orange_diamond: По аналогии с предыдущей задаче идет тестирование pytest и также создаются дополнительные файлы.
+:small_orange_diamond: В программе тестируются свойства факториала
 
 ## Результат основной программы:
-![LSB6](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB6_screen3pytest.png)
+![LAB7](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/Скриншоты%20программ/LAB7_screen3.png)
 
 
