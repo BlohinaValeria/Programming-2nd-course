@@ -22,3 +22,11 @@
 ## :white_check_mark: Лабораторная работа 5
 ### _Ключевые слова: итераторы / генераторы / Docker / mongo / менеджеры контекста_
 [Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%205)
+
+## :white_check_mark: Лабораторная работа 6
+### _Ключевые слова: исключительные заключения / модульное тестирование / unittest / pytest_
+[Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%206)
+
+## :white_check_mark: Лабораторная работа 7
+### _Ключевые слова: тестирование / контекст / hypothesis / параметризация_
+[Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%207)
