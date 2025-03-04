@@ -1,8 +1,13 @@
 # :wavy_dash: ПРОГРАММИРОВАНИЕ *2 КУРС* :wavy_dash:
 
 ***Автор: Блохина Валерия Сергеевна***:mortar_board:
+# :wavy_dash: 2 семестр :wavy_dash:
+## :white_check_mark: Лабораторная работа 1
+### _Ключевые слова: бинарное дерево / рекурсивный способ / нерекурсивный способ_
+[Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%201)
 
 
+# :wavy_dash: 1 семестр  :wavy_dash:
 ## :white_check_mark: Лабораторная работа 1
 ### _Ключевые слова: калькулятор / введение / перебор чисел / установка Python_
 [Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%201)
