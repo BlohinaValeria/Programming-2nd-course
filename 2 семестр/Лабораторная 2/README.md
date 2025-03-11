@@ -19,7 +19,7 @@
 
 ### График:
 ![LAB1_rec](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%202/timeit.png)
-Таблица: перейти(https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%202/Графики.xlsx)
+[Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%202/Графики.xlsx)
 
 ## Complex-profiling
 ### Комментарий к заданию: Использовалась программа с лабораторной 1 и борд. Программа борда исправлена под построение бинарного дерева
@@ -29,5 +29,8 @@
 ### График:
 ![all](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%202/all.png)
 
-
+## Complex-profiling
+### Комментарий к заданию: Тесты проверяют не только функции борда, но и построение бинарного дерева из лабораторной 1
+### Результат
+1[test](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%202/test.png)
 
