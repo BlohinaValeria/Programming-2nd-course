@@ -7,8 +7,14 @@
 Для второго способа следует переписать содержимое функции setup_data так, чтобы генерировались не списки чисел (в борде пример генерации данных для сравнения работы функции-факториала), а списки пар чисел (кортеж или словарь, представляющих root и height), также необходимо определить оптимальные значения параметров: количество «прогонов» тестов и длина списка с параметрами для построения деревьев.
 
 ## Timeit
-### Комментарий к заданию:
-:small_orange_diamond:
+
+### Комментарий к заданию: Использовалась программа с лабораторной 1
+
+### Запросы через терминал
+:small_orange_diamond: Рекурсия
+![rectimeit](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%202/recurs_timeit.png)
+:small_orange_diamond: Неекурсия
+![rectimeit](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%202/not_recurs_timeit.png)
 
 ### Результат рекурсивного способа:
 ![LAB1_rec](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%201/LR_Gen_bin.png)
