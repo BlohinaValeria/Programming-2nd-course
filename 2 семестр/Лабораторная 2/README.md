@@ -32,5 +32,5 @@
 ## Complex-profiling
 ### Комментарий к заданию: Тесты проверяют не только функции борда, но и построение бинарного дерева из лабораторной 1
 ### Результат
-1[test](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%202/test.png)
+![test](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%202/test.png)
 
