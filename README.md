@@ -6,6 +6,10 @@
 ### _Ключевые слова: бинарное дерево / рекурсивный способ / нерекурсивный способ_
 [Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%201)
 
+## :white_check_mark: Лабораторная работа 2
+### _Ключевые слова: бинарное дерево / рекурсивный способ / нерекурсивный способ / timeit / complex-profiling_
+[Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%201)
+
 
 # :wavy_dash: 1 семестр  :wavy_dash:
 ## :white_check_mark: Лабораторная работа 1
