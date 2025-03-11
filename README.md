@@ -8,7 +8,7 @@
 
 ## :white_check_mark: Лабораторная работа 2
 ### _Ключевые слова: бинарное дерево / рекурсивный способ / нерекурсивный способ / timeit / complex-profiling_
-[Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/Лабораторная%201)
+[Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/2%20семестр/Лабораторная%202)
 
 
 # :wavy_dash: 1 семестр  :wavy_dash:
