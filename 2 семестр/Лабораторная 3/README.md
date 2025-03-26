@@ -16,9 +16,9 @@
 
 
 ### Терминал:
-![LAB1_rec](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%202/timeit.png)
+![LAB1_rec](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%203/terminal.png)
 
 ## Файл json
 ### Терминал
-![all](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%202/3_10_term.png)
+![all](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%203/loger.png)
 
