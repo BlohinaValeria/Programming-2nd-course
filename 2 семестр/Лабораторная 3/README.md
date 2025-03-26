@@ -22,5 +22,5 @@
 
 ## Код программы реализованный с помощью контекст менеджера
 
-https://gist.github.com/BlohinaValeria/8f00a1b6ecdf30df7ed5c85eea1d369a
+(Перейти)(https://gist.github.com/BlohinaValeria/8f00a1b6ecdf30df7ed5c85eea1d369a)
 
