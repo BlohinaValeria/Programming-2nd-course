@@ -14,11 +14,13 @@
 
 ### Результат программы:
 
-
-### Терминал:
+## Терминал:
 ![LAB1_rec](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%203/terminal.png)
 
 ## Файл json
-### Терминал
 ![all](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%203/loger.png)
+
+## Код программы реализованный с помощью контекст менеджера
+
+https://gist.github.com/BlohinaValeria/8f00a1b6ecdf30df7ed5c85eea1d369a
 
