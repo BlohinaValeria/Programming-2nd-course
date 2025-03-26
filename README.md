@@ -10,6 +10,9 @@
 ### _Ключевые слова: бинарное дерево / рекурсивный способ / нерекурсивный способ / timeit / complex-profiling_
 [Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/2%20семестр/Лабораторная%202)
 
+## :white_check_mark: Лабораторная работа 3
+### _Ключевые слова: контекст менеджер / handle / json_
+[Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/2%20семестр/Лабораторная%203)
 
 # :wavy_dash: 1 семестр  :wavy_dash:
 ## :white_check_mark: Лабораторная работа 1
