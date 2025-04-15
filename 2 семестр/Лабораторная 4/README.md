@@ -67,4 +67,6 @@ _Компонент Controller:_
 
 :small_orange_diamond: в файле app сделан шаблон и начало проекта для лабораторной №5
 
+:small_orange_diamond: помимо вывода актуального курса валют, в программу также добавлен mock для тестирования controller,view и работой с sqlite3 
+
 
