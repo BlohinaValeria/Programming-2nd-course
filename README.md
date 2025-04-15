@@ -14,6 +14,10 @@
 ### _Ключевые слова: контекст менеджер / handle / json_
 [Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/2%20семестр/Лабораторная%203)
 
+## :white_check_mark: Лабораторная работа 4
+### _Ключевые слова: CRUD / Deleter / Setter / Getter / Controller / Singleton
+[Перейти](https://github.com/BlohinaValeria/Programming-2nd-course/tree/main/2%20семестр/Лабораторная%204)
+
 # :wavy_dash: 1 семестр  :wavy_dash:
 ## :white_check_mark: Лабораторная работа 1
 ### _Ключевые слова: калькулятор / введение / перебор чисел / установка Python_
