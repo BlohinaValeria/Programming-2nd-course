@@ -52,13 +52,11 @@ _Компонент Controller:_
 
 ## Результат программы:
 
-## Терминал:
-![LAB1_rec](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%203/terminal.png)
+## Главная программа:
+![вывод](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%204/main.png)
 
-## Файл json
-![all](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%203/loger.png)
+## Структура программы:
+![all](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%204/structure.png)
 
-## Код программы реализованный с помощью контекст менеджера
 
-[Перейти](https://gist.github.com/BlohinaValeria/8f00a1b6ecdf30df7ed5c85eea1d369a)
 
