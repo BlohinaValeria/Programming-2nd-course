@@ -50,7 +50,7 @@ _Компонент Controller:_
 
 ### Базовый борд с комментариями по выполнению расположен по ссылке: https://gist.github.com/nzhukov/e7999f0796e6e85d5c0b662d33cb4013
 
-## Результат программы:
+# Результат программы:
 
 ## Главная программа:
 ![вывод](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%204/main.png)
@@ -58,5 +58,13 @@ _Компонент Controller:_
 ## Структура программы:
 ![all](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%204/structure.png)
 
+# Комментарий к программе
+:small_orange_diamond: в файле sngl реализован паттерн "Одиночка" с занятий
+
+:small_orange_diamond: controller и view реализуется в файле init 
+
+:small_orange_diamond: база данных находится в файле data.sqlite3
+
+:small_orange_diamond: в файле app сделан шаблон и начало проекта для лабораторной №5
 
 
