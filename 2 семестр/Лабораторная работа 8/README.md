@@ -6,6 +6,10 @@
 ## Отображение терминов и тегов через администрирование джанго
 ![](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%20работа%208/lab8.png)
 
+## Проведенные миграции программы
+![](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%20работа%208/миграции.png)
+
+
 # Комментарий к программе
 :small_orange_diamond: через администрирование Django можно увидеть добавленные теги и термины
 
