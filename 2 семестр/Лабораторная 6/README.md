@@ -6,19 +6,19 @@
 Проблемы с данной лабороторной начались с работой с Docker-контейнерами. После решения проблем с зависимостями и файлом в системе появилась проблема с nginx при попытке к подключению к базе данных
 
 ### Реализация программы без подключения к базам данных
-![bd]()
+![bd](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%206/notbd.png)
 
 ### Файл main.py - добавление/изменение терминов 
-![вывод](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%205/app-orm.png)
+![вывод](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%206/main.png)
 
 ### Файл Docker
-![]()
+![](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%206/docker.png)
 
 ### Файл docker-compose - программа игнорирует версию 
-![all]()
+![all](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%206/docker-compose.png)
 
 ### Проблема с подключением базы данных
-![]()
+![](https://github.com/BlohinaValeria/Programming-2nd-course/blob/main/2%20семестр/Лабораторная%206/пштч.png)
 
 # Комментарий к программе
 :small_orange_diamond: основная проблема в ошибке «archive/tar: unknown file mode ?rwxr-xr-x», которая возникает в Windows при попытке собрать контейнер с использованием LARS (Local Application Runtime System). Она не появляется в системах Linux или macOS.
