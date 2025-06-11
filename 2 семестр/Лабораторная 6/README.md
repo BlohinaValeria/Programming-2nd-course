@@ -17,6 +17,9 @@
 ### Файл docker-compose - программа игнорирует версию 
 ![all]()
 
+### Проблема с подключением базы данных
+![]()
+
 # Комментарий к программе
 :small_orange_diamond: основная проблема в ошибке «archive/tar: unknown file mode ?rwxr-xr-x», которая возникает в Windows при попытке собрать контейнер с использованием LARS (Local Application Runtime System). Она не появляется в системах Linux или macOS.
 
